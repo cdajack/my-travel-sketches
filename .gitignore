@@ -1,0 +1,22 @@
+# macOS Finder metadata
+.DS_Store
+
+# Editor and IDE metadata
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local build, test, and temporary output
+dist/
+build/
+tmp/
+temp/
+*.log

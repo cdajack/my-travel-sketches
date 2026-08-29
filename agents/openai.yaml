@@ -1,0 +1,8 @@
+interface:
+  display_name: "My Travel Sketches"
+  short_description: "我的旅途小画：生成纯橡皮章旅行小画并支持指定比例"
+  brand_color: "#7A4E3A"
+  default_prompt: "使用 $my-travel-sketches 将我上传的每张旅行照片分别制作成纯橡皮章旅行小画：小型章印位于左下，文字在其下方左对齐，上方和右侧保留大片纸白；未指定时使用 3:4 竖版并添加当前年份。"
+
+policy:
+  allow_implicit_invocation: true
